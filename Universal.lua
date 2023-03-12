@@ -3366,7 +3366,6 @@ runFunction(function()
 	})
 end)
 
-
 runFunction(function()
 	local ChamsFolder = Instance.new("Folder")
 	ChamsFolder.Name = "ChamsFolder"
