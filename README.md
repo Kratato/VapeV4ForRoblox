@@ -1,2 +1,2 @@
-# Vape V4
-**A script that I have maintained for 5 years, mostly known for bedwars.**
+# Vape V4 but slightly worse
+**Litterally just VapeV4 but in a diffrent repo and for a diffrent game (eventually)**
